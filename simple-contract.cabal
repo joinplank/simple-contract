@@ -37,23 +37,6 @@ executable contract
                   , purescript-bridge
                   , row-types
                   , servant-purescript
-                  , testnet-traces
                   , text
                   , serialise
                   , bytestring
-                  , tasty
-                  , tasty-hunit
-                  , aeson-pretty
-                  , uuid-types
-                  , mtl
-                  -- Traces' dependencies
-                  , uuid
-                  , vector
-                  , bech32
-                  , unbounded-delays
-                  , aeson-qq
-                  , extra
-                  , lens-aeson
-                  , memory
-                  , req
-                  , cardano-wallet-core

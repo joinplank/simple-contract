@@ -290,8 +290,3 @@ source-repository-package
           quickcheck-dynamic
           web-ghc
   tag: e4062bca213f233cdf9822833b07aa69dff6d22a
-
-source-repository-package
-  type: git
-  location: git@github.com:imagineai/testnet-traces.git
-  tag: c51736dc5e73d1625f5e35667655bbfcd58a0679
